@@ -1,0 +1,57 @@
+.first-row{
+    background-color: rgb(66, 66, 114);
+    height: 15vh;
+   
+}
+.second-row{
+    background-color: rgb(202, 202, 217);
+    height: 85vh;
+   
+}
+.main{
+    position: relative;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
+.main-2{
+    position: absolute;
+    left: 0;
+    top: 20px;
+    right: 0;
+
+}
+.con-2-row-1{
+    background-color: aquamarine;
+    height: 5vh;
+}
+.con-2-row-2{
+    background-color: antiquewhite;
+   
+    border-right: 1px solid black;
+}
+.float{
+    float:right;
+}
+.con-2-row-3{
+    background-color: blanchedalmond;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    height: 80vh;
+    overflow-y: scroll;
+}
+.con-2-row-3-1{
+    background-color: blanchedalmond;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    height: 80vh;
+    overflow-y: scroll;
+}
+.mr{
+    margin-left: -20px;
+}
+.con-3-row-4{
+    background-color: rgb(238, 231, 231);
+   
+}
